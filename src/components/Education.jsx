@@ -18,13 +18,13 @@ export default function Education({ textEnter, textLeave }) {
       <div className="grid">
         <div id="box" className="block">
           <h2>Bachelor Degree of Computer Science</h2>
-          <small>June 2005 - June 2009</small>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius molestiae deserunt qui vitae nisi nobis natus ex. Laborum, maiores? Nemo placeat beatae qui dignissimos rerum ut sapiente sunt dolore maxime!</p>
+          <small>June 2024 - Present</small>
+          <p>Bachelor's Degree in Computer Science with a specialization in Software Engineering from the Cambodia Academy of Digital Technology.</p>
         </div>
         <div id="box" className="block">
-          <h2>Master Degree of Mechatronic Engineering</h2>
-          <small>June 2011 - June 2013</small>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius molestiae deserunt qui vitae nisi nobis natus ex. Laborum, maiores? Nemo placeat beatae qui dignissimos rerum ut sapiente sunt dolore maxime!</p>
+          <h2>None</h2>
+          <small>None</small>
+          <p>Intentionally Leaves Blank</p>
         </div>
       </div>
     </motion.section>

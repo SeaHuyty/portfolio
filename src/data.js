@@ -9,25 +9,25 @@ export const socialLinks = [
   {
     id: "linkedin",
     name: "LinkedIn",
-    url: "https://www.linkedin.com",
+    url: "https://www.linkedin.com/in/sea-huyty-bab014283/",
     icon: "linkedIn.png",
   },
   {
     id: "github",
     name: "GitHub",
-    url: "https://github.com",
+    url: "https://github.com/SeaHuyty",
     icon: "github.png"
   },
   {
     id: "telegram",
     name: "Telegram",
-    url: "https://telegram.org",
+    url: "@SeaHuyty",
     icon: "telegram.png"
   },
   {
     id: "gmail",
     name: "Gmail",
-    url: "mailto:youremail@gmail.com",
+    url: "mailto:seahuyty4444@gmail.com",
     icon: "gmail.png"
   },
   {
