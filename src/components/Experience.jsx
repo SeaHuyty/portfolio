@@ -22,9 +22,9 @@ export default function Experience({ textEnter, textLeave }) {
         <img src="ufo.png" alt="ufo" className='ufo' />
         <img src="floatingAstro.png" alt="floating Astro" className='floatingAstro' />
         <div className="container first-container block">
-          <h2>None</h2>
-          <small>None</small>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur iste non natus quas impedit error similique sint aliquid perferendis distinctio?</p>
+          <h2>Photo Phnom Penh Association</h2>
+          <small>Nov 2024 - Dec 2024</small>
+          <p>Developed QR Code Generator, Scanner, and Frame Generator in Python to support two event days of Tuk-Tuk tour. Ensured secure and efficient data handling, ticket validation and email distribution.</p>
         </div>
         <div className="container second-container block">
           <h2>None</h2>
