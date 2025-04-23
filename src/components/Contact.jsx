@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 import emailjs from '@emailjs/browser';
-import resume from '/Mr.pdf';
+import resume from '/SEA_HUYTY.pdf';
 
 export default function Contact({ textEnter, textLeave }) {
 
@@ -73,7 +73,7 @@ export default function Contact({ textEnter, textLeave }) {
           <img src="download.png" alt="download" />
           <div className="detail">
             <h4>Download Resume</h4>
-            <a href={resume} download='/Mr.pdf'>Click me</a>
+            <a href={resume} download='/SEA_HUYTY.pdf'>Click me</a>
           </div>
         </motion.div>
       </div>
