@@ -33,7 +33,7 @@ export const socialLinks = [
   {
     id: "resume",
     name: "Download CV",
-    url: "/Mr.pdf",
+    url: "/SEA_HUYTY.pdf",
     icon: "download.png",
     download: true
   }
